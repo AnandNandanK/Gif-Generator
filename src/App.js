@@ -5,7 +5,7 @@ import Tag from './component/Tag';
 
 function App() {
   return (
-    <div className="App5 h-[100vh] w-[100vw] bg-slate-700 flex flex-col bgi">
+    <div className="App5 h-[100vh] w-[100vw] bg-slate-700 flex flex-col bgi m-0 p-0 ">
       
       <div className='w-full rounded-sm '> 
         <h1 className='mx-auto mt-3 bg-white w-[90%] text-center rounded-sm p-2  font-extrabold text-3xl '>RANDOM GIF GENERATOR</h1>    
