@@ -39,7 +39,7 @@
    }
 }
 
-.bgi{
+*{
     background-image: radial-gradient(#ff0062 2.5px, transparent 2.5px), radial-gradient(#6f00ff 2.5px, transparent 2.5px);
     background-size: 36px 36px;
     background-position: 0 0, 18px 18px;
